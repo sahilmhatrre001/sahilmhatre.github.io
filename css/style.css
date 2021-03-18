@@ -263,7 +263,7 @@ a:hover {
   padding: 0;
   height: 100%;
   width: 100%;
-  opacity: 0.9;
+  opacity: 0.8;
 }
 
 .intro .intro-title {
@@ -315,7 +315,7 @@ a:hover {
   color: #fff;
   position: relative;
   font-weight: 500;
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 
 .ml6 .text-wrapper {
